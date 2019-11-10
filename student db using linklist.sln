@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "student db using linklist", "student db using linklist\student db using linklist.vcxproj", "{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Debug|x64.ActiveCfg = Debug|x64
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Debug|x64.Build.0 = Debug|x64
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Debug|x86.Build.0 = Debug|Win32
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Release|x64.ActiveCfg = Release|x64
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Release|x64.Build.0 = Release|x64
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Release|x86.ActiveCfg = Release|Win32
+		{6F2AFC82-AE0F-4F09-8BED-CF7B44831DBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C2600A-54F1-463A-ADDF-D09F572AB4E9}
+	EndGlobalSection
+EndGlobal

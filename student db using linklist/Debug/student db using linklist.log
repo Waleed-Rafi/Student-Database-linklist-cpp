@@ -1,0 +1,6 @@
+﻿  student db using linklist.cpp
+E:\vs\MIDS PREP\student db using linklist\student db using linklist\student db using linklist.cpp(38,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\vs\MIDS PREP\student db using linklist\student db using linklist\student db using linklist.cpp(65,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\vs\MIDS PREP\student db using linklist\student db using linklist\student db using linklist.cpp(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\vs\MIDS PREP\student db using linklist\student db using linklist\student db using linklist.cpp(193,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  student db using linklist.vcxproj -> E:\vs\MIDS PREP\student db using linklist\Debug\student db using linklist.exe
